@@ -1,0 +1,1 @@
+# A simple application written in VanillaJS showcasing closure and other core JS concepts.
